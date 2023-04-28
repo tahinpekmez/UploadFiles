@@ -1,6 +1,5 @@
 package fileproject.uploadfile.Service;
 
-import fileproject.uploadfile.Exception.TypeException;
 import fileproject.uploadfile.Exception.TypeExceptionResponse;
 import fileproject.uploadfile.Models.File;
 import fileproject.uploadfile.Repositories.FileRepository;
@@ -10,7 +9,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
-import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;

@@ -1,7 +1,5 @@
 package fileproject.uploadfile.Test;
 
-import fileproject.uploadfile.Models.File;
-import fileproject.uploadfile.Repositories.FileRepository;
 import fileproject.uploadfile.Requests.LoginRequest;
 import fileproject.uploadfile.Requests.SignupRequest;
 import org.junit.Assert;
@@ -15,9 +13,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
-
-
-import java.util.stream.Stream;
 
 import static io.jsonwebtoken.lang.Classes.getResourceAsStream;
 import static org.junit.Assert.assertEquals;

@@ -1,8 +1,6 @@
 package fileproject.uploadfile.Requests;
 
-import lombok.Builder;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 
 
 @Data
