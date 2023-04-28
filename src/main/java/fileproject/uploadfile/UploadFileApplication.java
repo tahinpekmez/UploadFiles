@@ -1,0 +1,14 @@
+package fileproject.uploadfile;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+@SpringBootApplication
+public class UploadFileApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UploadFileApplication.class, args);
+	}
+
+}
