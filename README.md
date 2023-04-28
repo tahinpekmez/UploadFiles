@@ -1,5 +1,0 @@
-![](/Users/muratersoy/Desktop/getFiles.png)
-![](/Users/muratersoy/Desktop/uploadSuccess.png)
-![](/Users/muratersoy/Desktop/jsonWebToken.png)
-![](/Users/muratersoy/Desktop/invalidType.png)
-![](/Users/muratersoy/Desktop/overSizeUpload.png)
